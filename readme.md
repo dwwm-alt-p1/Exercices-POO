@@ -3,13 +3,13 @@
 Pour chaque exercice, faire un diagramme de classe.
 
 ## Exercice 1
-Créer une classe **character**. Faire deux attributs : **health** et **mana**. Ils sont tout deux de type INT.
+Créer une classe **character**. Faire deux attributs : **health** et **mana**. Ils sont tous deux de type INT.
 
 ## Exercice 2
 Créer les deux méthodes magiques **construct** et **destruct** dans la classe **character**.
 
 ## Exercice 3
-Créer la méthode **chat** qui prend en paramètre une variable **charac** de type STRING dans la classe **character**. Cette méthode renvoi un STRING.
+Créer la méthode **chat** qui prend en paramètre une variable **charac** de type STRING dans la classe **character**. Cette méthode renvoie un STRING.
 
 ## Exercice 4
 Créer une classe **orc** qui hérite de la classe **character**. Faire un attribut **health** de type INT qui prend la valeur 1000.
