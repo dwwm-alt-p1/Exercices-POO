@@ -23,7 +23,7 @@ Créer une classe **stuff**. Faire les attributs suivants qui sont tous de type 
 - body
 - weapon
 
-Faire dans les méthodes suivantes :
+Faire dans la classe les méthodes suivantes :
 - construct
 - view de type STRING
 - destruct
